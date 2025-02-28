@@ -11,7 +11,7 @@ Ollama JavaScript 示例位于 [ollama-js/examples](https://github.com/ollama/ol
 
 
 ## OpenAI 兼容性示例
-Ollama OpenAI 兼容性示例位于 [ollama/examples/openai](../docs/openai.md)
+Ollama OpenAI 兼容性示例位于 [ollama/examples/openai](./openai.md)
 
 
 ## 社区示例
