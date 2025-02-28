@@ -1,7 +1,8 @@
 # 文档
 
 ### 入门指南
-* [快速开始](../README.md#quickstart)
+
+* [快速开始](./README.md#quickstart)
 * [示例](./examples.md)
 * [导入模型](./import.md)
 * [Linux 文档](./linux.md)
